@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM FROM alpine:edge
 
 WORKDIR /usr/src/app
 SHELL ["/bin/bash", "-c"]
